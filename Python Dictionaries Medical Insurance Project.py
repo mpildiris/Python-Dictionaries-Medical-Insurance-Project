@@ -1,4 +1,4 @@
-# Add your code here
+
 medical_costs = {}
 medical_costs["Marina"] = 6607.0
 medical_costs["Vinay"] = 3225.0
